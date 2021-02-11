@@ -2,7 +2,7 @@
   "name": "cfa-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://klubiniecki.github.io/cfa-test/",
+  "homepage": "https://klubiniecki.github.io/cfa-test",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
