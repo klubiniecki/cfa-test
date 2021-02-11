@@ -34,6 +34,12 @@ jobs:
     - name: Install
       run: npm install
 
+    - name: Unit test
+      run: npm run test:unit
+
+    - name: Integration test
+      run: npm run test:integration:ci
+
     - name: Build
       run: npm run build
 
