@@ -1,4 +1,4 @@
 it('View home page', () => {
   cy.visit('/');
-  cy.get('.App', { timeout: 60000 }).should('be.visible');
+  cy.get('.test', { timeout: 60000 }).should('be.visible');
 });
