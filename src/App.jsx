@@ -16,7 +16,7 @@ function App() {
   return (
     <div className="App">
       <OverlayTrigger trigger="click" overlay={popover}>
-        <Button size="lg">Click here</Button>
+        <Button size="lg">Click button</Button>
       </OverlayTrigger>
     </div>
   );
