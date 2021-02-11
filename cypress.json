@@ -1,0 +1,5 @@
+{
+  "chromeWebSecurity": false,
+  "integrationFolder": "cypress",
+  "baseUrl": "http://localhost:3000/"
+}

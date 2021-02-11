@@ -3,8 +3,6 @@ import {
   Button, Popover, OverlayTrigger,
 } from 'react-bootstrap';
 
-const xxxx = 4;
-
 const popover = (
   <Popover>
     <Popover.Title as="h3">Hello</Popover.Title>
