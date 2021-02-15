@@ -3,7 +3,7 @@ import Button from '../Button/Button';
 import Alert from '../Alert/Alert';
 
 function App() {
-  if (!process.env.REACT_APP_DEV) {
+  if (process.env.NODE_ENV === 'production') {
     return <div>Work in progress</div>;
   }
 
