@@ -1,0 +1,2 @@
+(this["webpackJsonpcfa-test"]=this["webpackJsonpcfa-test"]||[]).push([[0],{19:function(t,n,e){},23:function(t,n,e){},25:function(t,n,e){"use strict";e.r(n);e(0);var c=e(6),r=e.n(c),s=(e(19),e(13),e(27),e(4));e(28);var o=function(){return Object(s.jsx)("div",{children:"Work in progress"})};e(23),e(24);r.a.render(Object(s.jsx)(o,{}),document.getElementById("root"))}},[[25,1,2]]]);
+//# sourceMappingURL=main.0680a996.chunk.js.map
